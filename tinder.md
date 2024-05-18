@@ -1,4 +1,4 @@
-# Sobre o Tinder
+# Tinder
 
 Tinder é um aplicativo de relacionamentos multiplataforma. Inicialmente disponível em versão mobile e para pessoas cadastradas no Facebook, a aplicação ganhou um grande número de usuários e se tornou um dos principais aplicativos do mundo. De acordo com o próprio site do Tinder, a aplicação recebe 1,6 bilhões de swipes por dia, os usuários têm mais de 1 milhão de dates, e a aplicação tem um total de mais de 20 bilhões de matches, se estendendo por mais de 190 países.
 
@@ -28,4 +28,4 @@ https://www.techaheadcorp.com/blog/understanding-system-design-architecture-of-t
 
 https://www.tecmundo.com.br/redes-sociais/94783-descubra-melhor-horario-usar-o-tinder.htm#:~:text=O%20maior%20pico%20de%20acessos,com%20menor%20tempo%20de%20uso.
 
-https://www.help.tinder.com/hc/pt-br/articles/115004647686-Vis%C3%A3o-geral-do-Tinder#:~:text=No%20momento%2C%20o%20Tinder%20%C3%A9,Safari%2C%20Edge%20etc.).
+https://www.help.tinder.com/hc/pt-br/articles/115004647686-Vis%C3%A3o-geral-do-Tinder#:~:text=No%20momento%2C%20o%20Tinder%20%C3%A9,Safari%2C%20Edge%20etc.
