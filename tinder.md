@@ -6,6 +6,7 @@ O Tinder cruza as informações dos perfis dos usuários com um sistema de geolo
 
 Todas essas funcionalidades transformaram o Tinder em uma opção interessante para ser aplicada na matéria de Requisitos de Software. Suas funções, como match, feed de notícias e perfil, indicaram requisitos diferentes das demais aplicações. Isso gerou interesse na equipe e garantiu que o Tinder fosse escolhido.
 
+
 O número de usuários ativos mensais do Tinder é de cerca de 75 milhões de pessoas. Se os usuários do Tinder fossem uma nação, ela seria a 19ª mais populosa do mundo!
 
 ## Banco de Dados de Fragmentos
@@ -24,3 +25,7 @@ https://pt.quora.com/Qual-linguagem-de-programação-o-Tinder-está-usando
 https://roast.dating/pt/blog/estatisticas-tinder#
 
 https://www.techaheadcorp.com/blog/understanding-system-design-architecture-of-tinder/
+
+https://www.tecmundo.com.br/redes-sociais/94783-descubra-melhor-horario-usar-o-tinder.htm#:~:text=O%20maior%20pico%20de%20acessos,com%20menor%20tempo%20de%20uso.
+
+https://www.help.tinder.com/hc/pt-br/articles/115004647686-Vis%C3%A3o-geral-do-Tinder#:~:text=No%20momento%2C%20o%20Tinder%20%C3%A9,Safari%2C%20Edge%20etc.).
