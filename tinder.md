@@ -24,7 +24,11 @@ https://pt.quora.com/Qual-linguagem-de-programação-o-Tinder-está-usando
 
 https://roast.dating/pt/blog/estatisticas-tinder#
 
+https://tecnoblog.net/responde/como-funciona-o-powering-tinder-o-algoritmo-por-tras-dos-matches/
+
 https://www.techaheadcorp.com/blog/understanding-system-design-architecture-of-tinder/
+
+https://medium.com/system-design-concepts/dating-application-system-design-aae411412267
 
 https://www.tecmundo.com.br/redes-sociais/94783-descubra-melhor-horario-usar-o-tinder.htm#:~:text=O%20maior%20pico%20de%20acessos,com%20menor%20tempo%20de%20uso.
 
